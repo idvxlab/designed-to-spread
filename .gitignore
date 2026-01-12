@@ -1,5 +1,7 @@
-# Data directory
+# Data directory (except raw_data.zip)
 Data/
+!Data/
+!Data/raw_data.zip
 
 # Python
 __pycache__/
