@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "parent_id": "",
+  "type": "",
+  "source": {
+    "platform": "",
+    "engine": "",
+    "url": "",
+    "id": "",
+    "parent_id": "",
+    "account_id": ""
+  },
+  "content": {
+    "raw_text": "",
+    "text": "",
+    "at_users": [],
+    "tags": [],
+    "urls": [],
+    "images": [],
+    "videos": []
+  },
+  "account_id": "",
+  "send_time": "",
+  "location": null,
+  "statistics": {
+    "cnt_read": 0,
+    "cnt_like": 0,
+    "cnt_comment": 0,
+    "cnt_share": 0
+  }
+}

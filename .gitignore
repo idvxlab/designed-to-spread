@@ -3,6 +3,9 @@ Data/
 !Data/
 !Data/raw_data.zip
 
+# Results directory
+results/
+
 # Python
 __pycache__/
 *.py[cod]
