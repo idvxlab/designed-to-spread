@@ -1,7 +1,6 @@
 # Data directory (except raw_data.zip)
-Data/
-!Data/
-!Data/raw_data.zip
+/Data/*
+!/Data/raw_data.zip
 
 # Results directory
 results/
